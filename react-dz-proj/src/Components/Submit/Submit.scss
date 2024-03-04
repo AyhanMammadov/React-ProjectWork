@@ -1,0 +1,58 @@
+.form {
+    margin-left: 400px;
+}
+
+.submit-offer {
+    text-align: center;
+}
+
+.submit-offer h2 {
+    font-weight: 700;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.submit-text {
+    font-size: 20px;
+    margin-bottom: 38px;
+}
+
+.submit-input-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    width: 592px;
+}
+
+.submit-input {
+    margin-bottom: 20px;
+    margin-right: 32px;
+    width: 280px;
+    height: 41px;
+}
+
+.submit-input:nth-child(2) {
+    margin-right: 0;
+}
+
+.submit-input:nth-child(4) {
+    margin-right: 0;
+}
+
+.submit-input:last-child {
+    margin-right: 0;
+}
+
+.submit-btn {
+    background-color: #2947A9;
+    color: #fff;
+    width: 271px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 103.5px;
+    padding-right: 103.5px;
+}
+
+.message {
+    width: 592px;
+    height: 135px;
+}
